@@ -1,6 +1,6 @@
 # Deep Learning for Hand Gesture Recognition
 
-This repository holds `Pytorch` implementation of the deep learning model for hand gesture recognition introduced in [Skeletal-Based Dynamic Hand Gesture Recognition](https://drive.google.com/file/d/1pxbCQy3vZ0ni6J_4c2e2VBsHBXWbzU38/view?usp=sharing) from Mahmoud Gaber.
+This repository holds `Pytorch` implementation of the deep learning model for hand gesture recognition introduced in [Skeletal-Based Dynamic Hand Gesture Recognition](https://drive.google.com/file/d/1pxbCQy3vZ0ni6J_4c2e2VBsHBXWbzU38/view?usp=sharing).
 
 ## Getting started
 
